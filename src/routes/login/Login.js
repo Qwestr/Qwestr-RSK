@@ -16,7 +16,7 @@ function Login({ title }) {
     <div className={s.root}>
       <div className={s.container}>
         <h1>{title}</h1>
-        <p>...</p>
+        <a href="login/facebook">Login with Facebook</a>
       </div>
     </div>
   );
