@@ -42,7 +42,7 @@ Initial boilerplate code for this project created using [React Starter Kit](http
 
 ### License
 
-Copyright © 2016 Qwestr. This source code is licensed under the MIT
+Copyright © 2017 Qwestr LLC. This source code is licensed under the MIT
 license found in the [LICENSE.txt](https://github.com/Qwestr/Qwestr/blob/master/LICENSE.txt)
 file. The documentation to the project is licensed under the
 [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) license.
