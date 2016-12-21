@@ -30,8 +30,8 @@ export const auth = {
 
   // https://developers.facebook.com/
   facebook: {
-    id: process.env.FACEBOOK_APP_ID || '186244551745631',
-    secret: process.env.FACEBOOK_APP_SECRET || 'a970ae3240ab4b9b8aae0f9f0661c6fc',
+    id: process.env.FACEBOOK_APP_ID || '242986149457111',
+    secret: process.env.FACEBOOK_APP_SECRET || '60c51834fb409e99d1e1c9bb5d14b35a',
   },
 
   // https://cloud.google.com/console/project
