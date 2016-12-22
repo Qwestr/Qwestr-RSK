@@ -1,4 +1,4 @@
-# Qwestr
+# Qwestr-RSK
 
 Initial boilerplate code for this project created using [React Starter Kit](https://github.com/kriasoft/react-starter-kit)
 
